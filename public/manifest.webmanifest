@@ -1,0 +1,16 @@
+{
+  "name": "Mao - AI Agent Command Center",
+  "short_name": "Mao AI",
+  "description": "Your AI companion for development and mission support",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1f2937",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
